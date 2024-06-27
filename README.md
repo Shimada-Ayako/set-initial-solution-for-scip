@@ -1,12 +1,12 @@
 # set-initial-solution-for-scip
-Demonstrate SCIP with an initail solution.
+Demonstrate SCIP with an initail solution using C language.
 
 <!-- Badges -->
 <table>
     <tr>
         <td>License</td>
         <td>Lang</td>
-        <td>solver</td>
+        <td>Solver</td>
         <td>Editor</td>
     </tr>
     <tr>
