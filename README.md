@@ -1,4 +1,4 @@
-# set-initial-solution-for-scip
+# [set-initial-solution-for-scip](https://github.com/Shimada-Ayako/set-initial-solution-for-scip/tree/main)
 Demonstrate SCIP with an initail solution using C language.
 
 <!-- Badges -->
